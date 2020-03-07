@@ -1,0 +1,10 @@
+{
+  "name": "ServerExpress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Klaudia Skóra <klaud.skora@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
